@@ -1,9 +1,6 @@
 """
 Author: Brunel Odegard
-Version: 0.2 (indev)
-
 """
-
 
 from PyQt4 import QtCore as core, QtGui as gui
 import sys,math,time
